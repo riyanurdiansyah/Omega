@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Omega</string>
+    <string name="signin_page">Sign In</string>
+    <string name="omega">PT. Omega <br/> Teknologi Indonesia</string>
+    <string name="username">Username</string>
+    <string name="todo">todo</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="hint">*hint akun<br/> username : admin <br/> password : 123456789</string>
+    <string name="username_admin">username : admin</string>
+    <string name="password_123456789">password : 123456789</string>
+    <string name="loading">Loading…</string>
+    <string name="item_id">Item ID</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="penjualan_item_tanggal_1_3">Penjualan Item Tanggal 1 - 3</string>
+    <string name="penjualan_fajrin">Penjualan Fajrin</string>
+    <string name="fajrin_belum_melakukan_penjualan">Fajrin belum melakukan penjualan</string>
+    <string name="staf_id">Staf ID</string>
+    <string name="staf_nama">Staf Nama</string>
+    <string name="staf_tanpa_transaksi_penjualan">Staf Tanpa Transaksi Penjualan</string>
+    <string name="staf_terbanyak_transaksi">Staf Terbanyak Transaksi</string>
+    <string name="id">ID</string>
+    <string name="welcome">WELCOME</string>
+    <string name="notice">NOTICE !</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="lanjutkan">NEXT</string>
+    <string name="close">CLOSE</string>
+</resources>
